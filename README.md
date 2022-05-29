@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carsten09
-- 👀 I’m interested in  me tornra um dev  mobile.
+- 👀 I’m interested in  me tornar um dev mobile.
 - 🌱 I’m currently learning  python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
