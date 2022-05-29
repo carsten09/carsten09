@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carsten09
+- 👋 Hi,Eu sou Carsten!
 - 👀 I’m interested in  me tornar um dev mobile.
 - 🌱 I’m currently learning  python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Sou uma pessoa em busca de desafios e aprendizagem.
+- 📫 Instagra  para contato: @carstensantos
 
 <!---
 carsten09/carsten09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
